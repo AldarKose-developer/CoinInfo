@@ -16,6 +16,7 @@ Beautiful Soup
 ```
 pip install beautifulsoup4
 ```
+### Open in your IDE
 ### Change path in test.py file
 You should change path in test.py file. Replace path with path where folder with project located in your system.
 ```
